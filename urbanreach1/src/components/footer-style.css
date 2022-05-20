@@ -1,0 +1,20 @@
+.foot
+{
+    padding-top: 20px;
+    background-color: rgb(240 251 244);
+    padding-bottom: 40px;
+}
+.foot ul li
+{
+    list-style: none;
+    text-align: left;
+    color: gray;
+    margin-left: 57px;
+}
+.foot h4
+{
+    margin-left: 89px;
+    text-align: left;
+    color:black;
+}
+
